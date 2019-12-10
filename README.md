@@ -26,18 +26,18 @@ Firebase site: [https://anti-edge.firebaseapp.com/](https://anti-edge.firebaseap
 > npx create-react-app my-app
 
 
-2 . Navigate to the src folder that the react template created
+2. Navigate to the src folder that the react template created
 
 ```
 cd my-app 
 cd src
-If you're using a Mac or Linux:
+//If you're using a Mac or Linux:
 rm -f *
 
-Or, if you're on Windows:
+//Or, if you're on Windows:
 del *
 
-Then, switch back to the project folder
+//Then, switch back to the project folder
 cd ..
 
 ```
