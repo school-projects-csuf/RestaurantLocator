@@ -9,7 +9,7 @@
 * Eli Manzo De Leon
 
 ---
-####Summary
+#### Summary
 Firebase site: [https://anti-edge.firebaseapp.com/](https://anti-edge.firebaseapp.com/)
 
 > This is a fun and intuitive web application that helps indecisive users choose which restaurant to __*Binge*__ on.
