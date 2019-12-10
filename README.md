@@ -44,7 +44,7 @@ cd ..
 
 ```
  
-4. Copy the contents of the *src* folder from cloned repository, and paste it inside the *src* folder that has the react template you just created
+4. Copy the contents of the ***src*** folder from cloned repository, and paste it inside the ***src*** folder that has the react template you just created
 
 5. Replace the index.html in the *public* folder of the react application template to the *provided index.html* 
 
