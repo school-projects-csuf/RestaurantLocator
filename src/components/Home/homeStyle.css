@@ -1,0 +1,15 @@
+.container {
+  background-color: cornflowerblue;
+}
+.gallery-comp {
+  z-index: 0;
+  position: absolute;
+  top: 5000px;
+  left: 50px;
+}
+.form-comp {
+  z-index: 1;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
