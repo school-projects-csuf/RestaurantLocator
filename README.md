@@ -64,4 +64,4 @@ npm install jquery
 ```
 
 7. Make sure you are in the **my-app** directory
-7a. ```npm start```
+8. ```npm start```
